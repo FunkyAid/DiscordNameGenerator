@@ -1,0 +1,2 @@
+# DiscordNameGenerator
+Generates Discord Names
